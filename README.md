@@ -12,8 +12,9 @@ A personal reference for backend and AI engineering: concepts explained in my ow
 ## Index
 
 ### Backend
-| Topic | Note |
-| 01 | HTTP & API fundamentals | request journey, idempotency, status codes, cursor pagination, capacity & percentiles | [Note](backend/01-http-and-api-fundamentals.md) |
+| # | Topic | Key ideas | Note |
+|---|-------|-----------|------|
+| 01 | HTTP & API fundamentals | request journey, idempotency, status codes, cursor pagination, capacity & percentiles | [Read](backend/01-http-and-api-fundamentals.md) |
 
 ### AI engineering
 | Topic | Note |
