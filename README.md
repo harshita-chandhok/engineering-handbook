@@ -8,13 +8,12 @@ A personal reference for backend and AI engineering: concepts explained in my ow
 |---|---|
 | `backend/` | APIs, databases, auth, caching, reliability |
 | `ai-engineering/` | LLM APIs, embeddings, RAG, evaluation |
-| `dsa/` | Patterns and approaches worth remembering |
 
 ## Index
 
 ### Backend
 | Topic | Note |
-|---|---|
+| 01 | HTTP & API fundamentals | request journey, idempotency, status codes, cursor pagination, capacity & percentiles | [Note](backend/01-http-and-api-fundamentals.md) |
 
 ### AI engineering
 | Topic | Note |
