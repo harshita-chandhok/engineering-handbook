@@ -15,6 +15,8 @@ A personal reference for backend and AI engineering: concepts explained in my ow
 | # | Topic | Key ideas | Note |
 |---|-------|-----------|------|
 | 01 | HTTP & API fundamentals | request journey, idempotency, status codes, cursor pagination, capacity & percentiles | [Read](backend/01-http-and-api-fundamentals.md) |
+| 02 | Relational databases & SQL | keys & constraints, joins, GROUP BY, window functions, normalization vs denormalization | [Read](backend/02-relational-databases-and-sql.md) |
+| 03 | Indexes & query plans | B-tree, scan types, composite & partial indexes, EXPLAIN, index trade-offs | [Read](backend/03-indexes-and-query-plans.md) |
 
 ### AI engineering
 | Topic | Note |
